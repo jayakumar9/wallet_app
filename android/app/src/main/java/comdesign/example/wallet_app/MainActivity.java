@@ -1,4 +1,4 @@
-package comdesign.example.wallet_app;
+package comdesign.example.walletapp;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
