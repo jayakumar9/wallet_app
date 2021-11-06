@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:wallet_app/CardScreen.dart';
-import 'package:wallet_app/HomeScreen.dart';
+import 'package:walletapp/lib/CardScreen.dart';
+import 'package:walletapp/lib/HomeScreen.dart';
 
 void main() => runApp(MyApp());
 
